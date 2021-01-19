@@ -1,0 +1,13 @@
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.exe
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.deps.json
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.runtimeconfig.json
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.runtimeconfig.dev.json
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.dll
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.pdb
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.csprojAssemblyReference.cache
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.AssemblyInfoInputs.cache
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.AssemblyInfo.cs
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.csproj.CoreCompileInputs.cache
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.dll
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.pdb
+C:\Users\techverx\source\repos\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.genruntimeconfig.cache
